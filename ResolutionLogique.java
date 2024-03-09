@@ -9,7 +9,7 @@ public class ResolutionLogique {
         
         Scanner scanner = new Scanner(System.in);
         System.out.print("Vous avez le droit de saisir: \nDe A à Z (atomes),\n^ (et),\n-A à -Z (les négations des atomes). \n");
-        System.out.print("Entrez la FBF sans négation en séparant chaque clause par une virgule: ");
+        System.out.print("Entrez la FBF en séparant chaque clause par une virgule: ");
         String input = scanner.nextLine();
         
         String withNegation = ajouterNegation(input);
