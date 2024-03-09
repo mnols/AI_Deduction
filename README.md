@@ -9,6 +9,6 @@ Il faut que le programme valide cet ensemble comme valide.
 
 Le résultat d'exécution est : 
 
-![image](https://github.com/mnols/AI_Deduction/assets/119527090/7726c5fb-21a6-4603-9e27-3d53dcceb69e)
+![image](https://github.com/mnols/AI_Deduction/assets/119527090/499d0548-45f7-4386-a695-bd005effbf09)
 
 En conséquence, après avoir effectuée la négation et appliquée la résolution, l'ensemble est marqué comme valide.
